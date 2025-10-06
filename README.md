@@ -1,1 +1,1 @@
-# GoogleCybersecurityCeritification
+# GoogleCybersecurityCertification
